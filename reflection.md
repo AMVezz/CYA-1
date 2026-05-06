@@ -1,4 +1,4 @@
-# Reflection on career‑aligned networking experience (≈500 words)
+# Reflection on career‑aligned networking experience
 
 ### Activity description
 
