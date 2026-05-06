@@ -1,6 +1,6 @@
 # Career Development Experience: Choose Your Own Adventure 01
 
-## Chosen Adventure – Professional networking with military tech‑recruiters
+## Chosen Adventure: Professional networking with military tech‑recruiters
 
 During the Spring 2026 semester at Washington State University, I explored a career path outside of the conventional civilian technology sector by meeting with officer recruiters from the United States Navy.  My goal was to learn about technology‑focused officer roles – particularly the Information Professional (IP) and Information Warfare specialities – which lead technical teams in areas such as cyberspace defensive operations, secure communications, network management and knowledge management.  These roles align with my interest in cybersecurity, network engineering and leadership.
 
