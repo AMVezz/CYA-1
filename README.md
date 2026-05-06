@@ -16,6 +16,6 @@ This repository documents my engagement with Navy officer recruiters and my refl
 
 - **meeting_notes.md:** a summary of my meeting with a Navy officer recruiter, including questions I asked and the recruiter’s responses.
 - **reflection.md:** a 500‑word reflection that critically assesses the activity, key decisions and lessons learned.
-- **resources.md:** notes from research on the Information Professional role and promotion trends that emphasise technical mastery【290328486769435†L87-L115】.
+- **resources.md:** notes from research on the Information Professional role and promotion trends that emphasise technical mastery.
 
 These files provide tangible evidence of my effort to explore a career aligned with my long‑term goals.
