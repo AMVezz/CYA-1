@@ -30,4 +30,4 @@ I scheduled a one‑on‑one call with LT Mohamed Benallal, a Navy Reserve Inf
 - The conversation highlighted that the IP officer role aligns closely with my interests in cyber defense, network engineering and leadership.  
 - I was impressed by the emphasis on continuous professional development and the availability of advanced training and graduate‑level education.  
 - Preparing for the call forced me to refine my résumé and articulate my technical experiences clearly; the recruiter’s feedback will help me strengthen future applications.  
-- I realised that the military’s focus on technical excellence matches my desire to become a subject‑matter expert【290328486769435†L87-L115】.
+- I realised that the military’s focus on technical excellence matches my desire to become a subject‑matter expert.
